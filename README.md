@@ -43,7 +43,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ** GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows**
 
-If the link doesn't work here is another link:
+If the GIF doesn't show on your end here is a direct link:
     https://imgur.com/vFw2oh1
     
 
