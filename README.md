@@ -9,8 +9,7 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**KOtlin Debug-a-thon** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **It has clickable features, for example if you click on r
-random color it will show random colors generated after each click**
+**KOtlin Debug-a-thon** is an Android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **It has clickable features, for example, if you click on the random color feature, it will show random colors generated after each click**
 
 If I had to describe this project in three (3) emojis, they would be: **🤓🧠🤔**
 
